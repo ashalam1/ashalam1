@@ -1,6 +1,6 @@
 ![logo](https://github.com/ashalam1/ashalam1/blob/main/Ashfaque%20alam%20(1).png)
 <h1 align="center">Hi 👋, I'm Ashfaque Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate React developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://github.com/ashalam1/ashalam1/blob/main/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
 
 - 🌱 I’m currently learning **React.js,**
